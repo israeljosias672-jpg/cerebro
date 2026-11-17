@@ -12,6 +12,7 @@ Una memoria externa para Claude con Graphify, GitHub y MCP, para no repetir cont
 - Plan por etapas escrito (Claude Doc).
 - Etapa 2: creación de este repo privado.
 - Conector de GitHub con acceso al repo y `remember`/`recall` de Graphify probados.
+- MCP de GitHub probado en Claude Desktop (2026-11-17).
 
 ## Falta
-- Probar el MCP de GitHub en Claude Desktop.
+- Nada pendiente por ahora.
